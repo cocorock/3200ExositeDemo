@@ -1,0 +1,9 @@
+#ifndef _EXOSITE_CONFIG_H_
+#define _EXOSITE_CONFIG_H_
+
+#define NUM_OF_SOCKETS 5
+#define NUM_OF_DATA_PORTS 10
+#define HTTP_MSG_SIZE 256
+#define HTTP_CONTENT_DOWNLOAD_MSG_SIZE 768
+
+#endif
