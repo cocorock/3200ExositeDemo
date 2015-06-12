@@ -1535,7 +1535,7 @@ void main()
     MAP_GPIOIntEnable(GPIOA1_BASE,GPIO_INT_PIN_5);
 
     //
-    // LED Init
+    // LED Init (red LED)
     //
     GPIO_IF_LedConfigure(LED1);
       
