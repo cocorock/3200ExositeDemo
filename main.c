@@ -1025,7 +1025,6 @@ static void ReadDeviceConfiguration()
     ucPinValue = GPIO_IF_Get(SH_GPIO_3,uiGPIOPort,pucGPIOPin);
         
     //If Connected to VCC, Mode is AP
-    //Comentario para probar merge
     if(ucPinValue == 1)
     {
         //AP Mode
