@@ -1454,6 +1454,7 @@ DisplayBanner(char * AppName)
     UART_PRINT("\t\t  CC3200 %s Application       \n\r", AppName);
     UART_PRINT("\t\t Victor Ferman\n\r");
     UART_PRINT("\t\t Julio Fajardo\n\r");
+    UART_PRINT("\t\t Universidad Galileo\n\r");
     UART_PRINT("\t\t *************************************************\n\r");
     UART_PRINT("\n\n\n\r");
 }
